@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <title>Mi Mini Sitio</title>
+</head>
+<body>
+    <h1>Mi Mini Sitio</h1>
+
+    <section>
+        <h2>Inicio</h2>
+        <p>Bienvenido a mi mini página web</p>
+    </section>
+</body>
+</html>
